@@ -1,5 +1,3 @@
-type Props = {};
-
 function GenerateWinningCombos(size: number): number[][] {
   const combos = [];
 
